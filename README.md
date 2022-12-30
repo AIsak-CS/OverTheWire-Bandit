@@ -7,4 +7,5 @@ Bandit3 - aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 Bandit4 - 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 Bandit5 - lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 Bandit6 - P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
-Bandit7 - 
+Bandit7 - z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+Bandit8 - TESKZC0XvTetK0S9xNwm25STk5iWrBvP
